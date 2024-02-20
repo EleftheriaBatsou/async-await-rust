@@ -1,4 +1,4 @@
-### ow to make an asynchronous GET request using `async` and `await` 🦀
+### How to make an asynchronous GET request using `async` and `await` 🦀
 
 The `main` function is the entry point of the program, marked with the `#[tokio::main]` attribute. This attribute allows the program to use Tokio's runtime, enabling asynchronous execution.
 
